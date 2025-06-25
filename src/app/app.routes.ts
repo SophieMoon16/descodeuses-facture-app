@@ -4,7 +4,7 @@ import { FactureDetailComponent } from './facture-detail/facture-detail.componen
 
 export const routes: Routes = [
   {
-    path: 'facture-liste',
+    path: '',
     component: FactureListeComponent,
   },
   {
